@@ -12,3 +12,5 @@
 - NLP: Text mining
 
 - Visualization: Tableau, Matplotlib
+
+Excited to connect and create!
